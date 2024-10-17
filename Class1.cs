@@ -12,6 +12,7 @@
             num2=int.Parse(Console.ReadLine());
             resul = num1 + num2;
             Console.WriteLine("La suma de los numeros es: " + resul);
+            Consolle.WriteLine("GAAAAAAAAAAAAAAAAAAA");
              
         }
     }
